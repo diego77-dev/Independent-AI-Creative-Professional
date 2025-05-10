@@ -1,3 +1,4 @@
+<img src="cover.png" width="300" alt="Cover">
 # Independent AI Creative Professional
 
 Hey there! 👋 Welcome to my collection of resources for AI-enhanced creative work. This repo contains my evolving toolkit for navigating the world where human creativity meets AI assistance.
