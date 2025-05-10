@@ -74,4 +74,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-By participating in this repository, you agree to abide by this code of conduct. I value your contributions and want to ensure this remains a positive space for everyone interested in AI creative work.# Code of Conduct
+By participating in this repository, you agree to abide by this code of conduct. I value your contributions and want to ensure this remains a positive space for everyone interested in AI creative work.
