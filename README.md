@@ -19,15 +19,6 @@ As AI tools have transformed creative work since 2022, I've been documenting wha
 3. **Share knowledge with other creatives** - because we're all figuring this out together
 4. **Document my unique creative process** - to maintain consistency across projects
 
-## Tools I Use
-
-<p align="center">
-  <img src="images/midjourney-logo.png" height="60">
-  <img src="images/higgsfield-logo.png" height="60">
-  <img src="images/runway-logo.png" height="60">
-  <img src="images/claude-logo.png" height="60">
-</p>
-
 ## What You'll Find Here
 
 ### 📚 Prompt Library
